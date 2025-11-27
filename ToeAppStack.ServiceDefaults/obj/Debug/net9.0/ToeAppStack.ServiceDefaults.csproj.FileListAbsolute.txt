@@ -10,3 +10,4 @@ F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9
 F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\refint\ToeAppStack.ServiceDefaults.dll
 F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.pdb
 F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ref\ToeAppStack.ServiceDefaults.dll
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.sourcelink.json

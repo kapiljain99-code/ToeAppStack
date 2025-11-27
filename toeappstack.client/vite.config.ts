@@ -47,10 +47,7 @@ export default defineConfig({
     },
     server: {
         proxy: {
-            '^/weatherforecast': {
-                target,
-                secure: false
-            }
+
         },
         port: 57125,
         https: {
@@ -59,3 +56,8 @@ export default defineConfig({
         }
     }
 })
+
+//'^/weatherforecast': {
+//    target,
+//        secure: false
+//}
