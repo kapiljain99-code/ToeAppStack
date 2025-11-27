@@ -64,3 +64,4 @@ F:\Enterprise application\ToeAppStack\ToeAppStack.Server\obj\Debug\net9.0\refint
 F:\Enterprise application\ToeAppStack\ToeAppStack.Server\obj\Debug\net9.0\ToeAppStack.Server.pdb
 F:\Enterprise application\ToeAppStack\ToeAppStack.Server\obj\Debug\net9.0\ToeAppStack.Server.genruntimeconfig.cache
 F:\Enterprise application\ToeAppStack\ToeAppStack.Server\obj\Debug\net9.0\ref\ToeAppStack.Server.dll
+F:\Enterprise application\ToeAppStack\ToeAppStack.Server\obj\Debug\net9.0\ToeAppStack.Server.sourcelink.json
