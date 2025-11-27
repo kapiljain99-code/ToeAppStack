@@ -1,0 +1,12 @@
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\bin\Debug\net9.0\ToeAppStack.ServiceDefaults.deps.json
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\bin\Debug\net9.0\ToeAppStack.ServiceDefaults.dll
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\bin\Debug\net9.0\ToeAppStack.ServiceDefaults.pdb
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.csproj.AssemblyReference.cache
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.AssemblyInfoInputs.cache
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.AssemblyInfo.cs
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.csproj.CoreCompileInputs.cache
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.dll
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\refint\ToeAppStack.ServiceDefaults.dll
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ToeAppStack.ServiceDefaults.pdb
+F:\Enterprise application\ToeAppStack\ToeAppStack.ServiceDefaults\obj\Debug\net9.0\ref\ToeAppStack.ServiceDefaults.dll
