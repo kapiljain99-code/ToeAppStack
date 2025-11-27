@@ -1679,6 +1679,7 @@
         "dependencies": {
           "Microsoft.Extensions.Http.Resilience": "9.0.0",
           "Microsoft.Extensions.ServiceDiscovery": "9.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.1",
           "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.9.0",
           "OpenTelemetry.Extensions.Hosting": "1.9.0",
           "OpenTelemetry.Instrumentation.AspNetCore": "1.9.0",
@@ -4231,6 +4232,15 @@
       "warningLevel": 1,
       "message": "Package 'System.Text.Json' 8.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
       "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Npgsql.EntityFrameworkCore.PostgreSQL from 9.0.1 to 8.0.4. Reference the package directly from the project to select a different version. \r\n ToeAppStack.Server -> ToeAppStack.ServiceDefaults -> Npgsql.EntityFrameworkCore.PostgreSQL (>= 9.0.1) \r\n ToeAppStack.Server -> Npgsql.EntityFrameworkCore.PostgreSQL (>= 8.0.4)",
+      "libraryId": "Npgsql.EntityFrameworkCore.PostgreSQL",
       "targetGraphs": [
         "net9.0"
       ]

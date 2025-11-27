@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\Enterprise application\\ToeAppStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B74FEAC-4DFF-4F87-9FBA-67F7F5CBF78B}|toeappstack.client\\toeappstack.client.esproj|f:\\enterprise application\\toeappstack\\toeappstack.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{9B74FEAC-4DFF-4F87-9FBA-67F7F5CBF78B}|toeappstack.client\\toeappstack.client.esproj|solutionrelative:toeappstack.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26348819-57EB-4C15-8182-D364319488FD}|ToeAppStack.Server\\ToeAppStack.Server.csproj|f:\\enterprise application\\toeappstack\\toeappstack.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26348819-57EB-4C15-8182-D364319488FD}|ToeAppStack.Server\\ToeAppStack.Server.csproj|solutionrelative:toeappstack.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26348819-57EB-4C15-8182-D364319488FD}|ToeAppStack.Server\\ToeAppStack.Server.csproj|f:\\enterprise application\\toeappstack\\toeappstack.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26348819-57EB-4C15-8182-D364319488FD}|ToeAppStack.Server\\ToeAppStack.Server.csproj|solutionrelative:toeappstack.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 37,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "vite.config.ts",
-              "DocumentMoniker": "F:\\Enterprise application\\ToeAppStack\\toeappstack.client\\vite.config.ts",
-              "RelativeDocumentMoniker": "toeappstack.client\\vite.config.ts",
-              "ToolTip": "F:\\Enterprise application\\ToeAppStack\\toeappstack.client\\vite.config.ts",
-              "RelativeToolTip": "toeappstack.client\\vite.config.ts",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-11-27T20:42:47.305Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Enterprise application\\ToeAppStack\\ToeAppStack.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ToeAppStack.Server\\appsettings.json",
+              "ToolTip": "F:\\Enterprise application\\ToeAppStack\\ToeAppStack.Server\\appsettings.json",
+              "RelativeToolTip": "ToeAppStack.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T20:47:37.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Enterprise application\\ToeAppStack\\ToeAppStack.Server\\Program.cs",
               "RelativeDocumentMoniker": "ToeAppStack.Server\\Program.cs",
               "ToolTip": "F:\\Enterprise application\\ToeAppStack\\ToeAppStack.Server\\Program.cs",
               "RelativeToolTip": "ToeAppStack.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T20:42:41.724Z",
               "EditorCaption": ""
