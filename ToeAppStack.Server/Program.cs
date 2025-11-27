@@ -1,3 +1,7 @@
+using ToeAppStack.Server.Data;
+using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.AddServiceDefaults();
@@ -7,6 +11,10 @@ builder.AddServiceDefaults();
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8Mi9lvSNAh0MD98DEsbc2MU/ba7LFZNfM+ICk/2gs9Y=",
+  "Hash": "sDBY3aj6rLepWVAJihKxG2nWfbgcjh3HXYkxNaLioy0=",
   "Source": "ToeAppStack.Server",
   "BasePath": "_content/ToeAppStack.Server",
   "Mode": "Default",
@@ -11,11 +11,11 @@
       "Version": 2,
       "Source": "toeappstack.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [],

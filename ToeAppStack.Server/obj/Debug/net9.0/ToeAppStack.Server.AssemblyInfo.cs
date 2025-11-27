@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToeAppStack.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5655623b5bc0db1aefa89d8551ecf497cb77c58c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58f227d2ce6ac218e1a0e5ba6b2e01238fa6c313")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToeAppStack.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToeAppStack.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
