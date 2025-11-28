@@ -4,3 +4,9 @@ obj/
 
 # Visual Studio
 .vs/
+
+# Ignore EF Core migrations
+Migrations/
+
+# Ignore images folder in root
+images/
